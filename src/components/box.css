@@ -1,0 +1,7 @@
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(78, 74, 74);
+    color: antiquewhite;
+    font-size: 2rem;
+}

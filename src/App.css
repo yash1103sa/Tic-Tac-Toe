@@ -1,0 +1,13 @@
+*{
+  background-color: rgb(39, 38, 38);
+  color: antiquewhite;
+
+}
+
+.board{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
